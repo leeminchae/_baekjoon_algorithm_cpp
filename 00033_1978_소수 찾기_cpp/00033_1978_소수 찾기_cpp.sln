@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "00033_1978_소수 찾기_cpp", "00033_1978_소수 찾기_cpp\00033_1978_소수 찾기_cpp.vcxproj", "{75CE2FD6-A9DA-4E82-A8DF-C28C1FE6050F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CE2FD6-A9DA-4E82-A8DF-C28C1FE6050F}.Debug|x64.ActiveCfg = Debug|x64
+		{75CE2FD6-A9DA-4E82-A8DF-C28C1FE6050F}.Debug|x64.Build.0 = Debug|x64
+		{75CE2FD6-A9DA-4E82-A8DF-C28C1FE6050F}.Debug|x86.ActiveCfg = Debug|Win32
+		{75CE2FD6-A9DA-4E82-A8DF-C28C1FE6050F}.Debug|x86.Build.0 = Debug|Win32
+		{75CE2FD6-A9DA-4E82-A8DF-C28C1FE6050F}.Release|x64.ActiveCfg = Release|x64
+		{75CE2FD6-A9DA-4E82-A8DF-C28C1FE6050F}.Release|x64.Build.0 = Release|x64
+		{75CE2FD6-A9DA-4E82-A8DF-C28C1FE6050F}.Release|x86.ActiveCfg = Release|Win32
+		{75CE2FD6-A9DA-4E82-A8DF-C28C1FE6050F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABF35E74-8D01-4D91-A379-5F4C1FBF861A}
+	EndGlobalSection
+EndGlobal

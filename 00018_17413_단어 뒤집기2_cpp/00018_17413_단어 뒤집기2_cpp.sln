@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "00018_17413_단어 뒤집기2_cpp", "00018_17413_단어 뒤집기2_cpp\00018_17413_단어 뒤집기2_cpp.vcxproj", "{985DB1CA-F1F5-4A37-A948-889096220968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985DB1CA-F1F5-4A37-A948-889096220968}.Debug|x64.ActiveCfg = Debug|x64
+		{985DB1CA-F1F5-4A37-A948-889096220968}.Debug|x64.Build.0 = Debug|x64
+		{985DB1CA-F1F5-4A37-A948-889096220968}.Debug|x86.ActiveCfg = Debug|Win32
+		{985DB1CA-F1F5-4A37-A948-889096220968}.Debug|x86.Build.0 = Debug|Win32
+		{985DB1CA-F1F5-4A37-A948-889096220968}.Release|x64.ActiveCfg = Release|x64
+		{985DB1CA-F1F5-4A37-A948-889096220968}.Release|x64.Build.0 = Release|x64
+		{985DB1CA-F1F5-4A37-A948-889096220968}.Release|x86.ActiveCfg = Release|Win32
+		{985DB1CA-F1F5-4A37-A948-889096220968}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD77278-92BD-4D67-954B-75472DF5CA32}
+	EndGlobalSection
+EndGlobal
